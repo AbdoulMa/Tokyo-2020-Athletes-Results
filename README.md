@@ -23,6 +23,6 @@ the iteration for all the **11656 athletes** efficiently with the methods that `
 
 So, I used `rvest` which is more than an alternative and `purrr` library  methods to do the iterations efficently.
 
-You can find the complete  script <a href="scrape_athletes_results.py">here</a>.
+You can find the complete  script <a href="scrape_athletes_results.R">here</a>.
 
 Last updated on 08/10/2021.
