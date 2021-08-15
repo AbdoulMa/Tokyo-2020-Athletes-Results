@@ -11,7 +11,7 @@ I scrape the data from official [Olympics Website](https://olympics.com) using `
 ### Why `Selenium Webdriver` and so `Python`? 
 
 For the simple reason  that  I need to interact with th browser (click on the `next` button) for go to  the athletes list Page 1 to Page 2 and so on, till Page 583. 
-On each page, I retrieve the athletes `names`, `countries`, `disciplines` and the more important, the `links` to their results & events page.
+On each page, I retrieve the athletes `names`, `countries`, `disciplines` and the more important, the `links` to their results & events pages.
 
 The script is in  <a href="retrieve_olympic_athletes.py">retrieve_olympic_athletes.py</a> file.
 
